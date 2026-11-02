@@ -1,3 +1,4 @@
+[![CI](https://github.com/krishujeniya/NetSweep/actions/workflows/ci.yml/badge.svg)](https://github.com/krishujeniya/NetSweep/actions/workflows/ci.yml)
 # 🌐 NetSweep: Automated Network Reconnaissance Pipeline
 
 > **Lightweight Bash Pipeline Wrapping Nmap for Automated Network Discovery & Penetration Testing Recon**  

@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Automated Network Scanner using Nmap
-# Author: [Your Name]
-# Date: [Date]
+# Author: Krish Ujeniya
+# Date: 2024
 
 echo "=== Automated Network Scanner ==="
 
